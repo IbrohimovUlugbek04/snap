@@ -236,6 +236,8 @@ a {
 
 .hero-wrapper {
   display: flex;
+  width: 1170px;
+  margin: 0 auto;
   justify-content: space-between;
   padding: 65px 0;
 }
